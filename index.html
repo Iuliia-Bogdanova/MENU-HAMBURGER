@@ -9,19 +9,16 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
+    <h1>Arrays</h1>
     <div class="wrap">
-        <h1>Arrays</h1>
         <form name="test" method="post" action="input1.php">
-            <p><b>Ваше имя:</b><br>
-                <input type="text" size="40">
-               </p>
-            <p>enter your values<Br>
-             <textarea name="comment" cols="40" rows="3"></textarea></p>
-            <p><input type="submit" value="Done">
-           </p>
-           </form>
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Enter your values:</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+            </div>
+            <input class="btn btn-success btn-lg" type="submit" value="Done">
+        </form>
     </div>
-    
 
     <script src="./script.js"></script>
 </body>
