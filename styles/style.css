@@ -1,0 +1,78 @@
+@import url("reset.css");
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-color: #262c37;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: clip;
+}
+
+[class*="__container"]{
+    max-width: 81.25rem;
+    margin: 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 50;
+    background-color: #262c37;
+    border-bottom: 1px solid #262c37;
+}
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    min-height: 4.4rem;
+}
+.header__logo {
+}
+.header__menu {
+}
+.menu {
+}
+.menu__body {
+}
+.menu__list {
+}
+.menu__item {
+}
+.menu__link {
+}
+.menu__icon {
+}
+.icon-menu {
+}
+.icon-menu__line {
+}
+.page {
+}
+.page__container {
+}
+.page__title {
+}
+.home {
+}
+.about {
+}
+.products {
+}
+.news {
+}
+.events {
+}
+.blog {
+}
+.contacts {
+}
