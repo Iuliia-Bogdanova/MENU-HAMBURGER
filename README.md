@@ -1,7 +1,1 @@
-# sum-input
-week16 task1
-1. Напишите функцию `sumInput()`, которая:
-    - Просит пользователя ввести значения, используя текстовое поле `input` и сохраняет их в массив
-    - Когда пользователь нажмёт кнопку «Готово»
-        - Выводит получившийся массив в отсортированном по возрастанию виде
-        - Подсчитывает и возвращает сумму элементов массива
+In this tutorial i`ll show you how to create Simple and high quality MENU HAMBURGER with smooth navigation on page and icon animation on HTML CSS JS only. Code Only - Free HTML CSS JS tutorials for beginners
