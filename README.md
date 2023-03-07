@@ -1,1 +1,1 @@
-In this tutorial i`ll show you how to create Simple and high quality MENU HAMBURGER with smooth navigation on page and icon animation on HTML CSS JS only. Code Only - Free HTML CSS JS tutorials for beginners
+Simple and high quality MENU HAMBURGER with smooth navigation on page and icon animation on HTML CSS JS only.
