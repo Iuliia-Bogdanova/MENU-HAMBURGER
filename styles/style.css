@@ -4,7 +4,24 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     background-color: #262c37;
+    scrollbar-width: thin;
+    scrollbar-color: #97af6e #262c37;
 } 
+
+body::-webkit-scrollbar {
+    /* height: .4rem; */
+    width: .8rem;
+}
+
+body::-webkit-scrollbar-track {
+    background: #262c37;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #97af6e;
+    border-radius: .4rem;
+    border: .1rem solid #262c37;
+}
 
 .menu-open body {
     overflow: hidden;
